@@ -6,17 +6,17 @@
         "ciudad": "Guadalajara",
         "calle": "Manuel Acuna",
         "numeroExt": "30",
-        "numeroInt": "C",
+        "numeroInt": "",
         "colonia": "Sta teresita",
         "cp": "33100"
       },
-      "usurario": {
+      "propietario": {
         "nombre": "Sandra Beltran",
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
       "precio": "10000000",
-      "photo": "url"
+      "photo": "http://www.casasparaconstruir.com/projetos/140/01.jpg"
     },
     {
       "id": 2,
@@ -28,13 +28,13 @@
         "colonia": "Sta teresita",
         "cp": "33100"
       },
-      "usurario": {
+      "propietario": {
         "nombre": "Sandra Beltran",
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
       "precio": "10000000",
-      "photo": "url"
+      "photo": "https://images.adsttc.com/media/images/5bc6/2af3/f197/cc33/b700/0034/newsletter/Tinel_final-16.jpg?1539713731"
     },
     {
       "id": 3,
@@ -46,13 +46,13 @@
         "colonia": "Sta teresita",
         "cp": "33100"
       },
-      "usurario": {
+      "propietario": {
         "nombre": "Sandra Beltran",
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
       "precio": "10000000",
-      "photo": "url"
+      "photo": "https://www.viviendasaludable.es/wp-content/uploads/2014/11/casas-pasivas.jpg"
     },
     {
       "id": 4,
@@ -64,13 +64,13 @@
         "colonia": "Sta teresita",
         "cp": "33100"
       },
-      "usurario": {
+      "propietario": {
         "nombre": "Sandra Beltran",
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
       "precio": "10000000",
-      "photo": "url"
+      "photo": "https://www.lavanguardia.com/r/GODO/LV/p4/WebSite/2017/08/15/Recortada/img_rsalvador_20170814-195052_imagenes_lv_terceros_villa_mallorca-kc6C-U435702492340HE-992x558@LaVanguardia-Web.JPG"
     },
     {
       "id": 5,
@@ -82,13 +82,13 @@
         "colonia": "Sta teresita",
         "cp": "33100"
       },
-      "usurario": {
+      "propietario": {
         "nombre": "Sandra Beltran",
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
       "precio": "10000000",
-      "photo": "url"
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0D47puGsMAparf0jxm7lxEz9idnxgbs3-_yyy1i3hsLo0Gx6BQ"
     }
   ]
 }

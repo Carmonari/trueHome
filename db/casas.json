@@ -1,0 +1,94 @@
+{
+  "casas": [
+    {
+      "id": 1,
+      "direccion": {
+        "ciudad": "Guadalajara",
+        "calle": "Manuel Acuna",
+        "numeroExt": "30",
+        "numeroInt": "C",
+        "colonia": "Sta teresita",
+        "cp": "33100"
+      },
+      "usurario": {
+        "nombre": "Sandra Beltran",
+        "tel": "5568941326",
+        "email": "sandra@gmail.com"
+      },
+      "precio": "10000000",
+      "photo": "url"
+    },
+    {
+      "id": 2,
+      "direccion": {
+        "ciudad": "Guadalajara",
+        "calle": "Manuel Acuna",
+        "numeroExt": "30",
+        "numeroInt": "C",
+        "colonia": "Sta teresita",
+        "cp": "33100"
+      },
+      "usurario": {
+        "nombre": "Sandra Beltran",
+        "tel": "5568941326",
+        "email": "sandra@gmail.com"
+      },
+      "precio": "10000000",
+      "photo": "url"
+    },
+    {
+      "id": 3,
+      "direccion": {
+        "ciudad": "Guadalajara",
+        "calle": "Manuel Acuna",
+        "numeroExt": "30",
+        "numeroInt": "C",
+        "colonia": "Sta teresita",
+        "cp": "33100"
+      },
+      "usurario": {
+        "nombre": "Sandra Beltran",
+        "tel": "5568941326",
+        "email": "sandra@gmail.com"
+      },
+      "precio": "10000000",
+      "photo": "url"
+    },
+    {
+      "id": 4,
+      "direccion": {
+        "ciudad": "Guadalajara",
+        "calle": "Manuel Acuna",
+        "numeroExt": "30",
+        "numeroInt": "C",
+        "colonia": "Sta teresita",
+        "cp": "33100"
+      },
+      "usurario": {
+        "nombre": "Sandra Beltran",
+        "tel": "5568941326",
+        "email": "sandra@gmail.com"
+      },
+      "precio": "10000000",
+      "photo": "url"
+    },
+    {
+      "id": 5,
+      "direccion": {
+        "ciudad": "Guadalajara",
+        "calle": "Manuel Acuna",
+        "numeroExt": "30",
+        "numeroInt": "C",
+        "colonia": "Sta teresita",
+        "cp": "33100"
+      },
+      "usurario": {
+        "nombre": "Sandra Beltran",
+        "tel": "5568941326",
+        "email": "sandra@gmail.com"
+      },
+      "precio": "10000000",
+      "photo": "url"
+    }
+  ]
+}

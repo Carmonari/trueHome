@@ -64,7 +64,7 @@ class DireccionForm extends Component {
           alignItems="flex-start"
         >
         <Grid item xs={12}>
-          <h1 style={{textAlign: 'center'}}>Editar direccion</h1>
+          <h1 style={{textAlign: 'center'}}>Editar dirección</h1>
         </Grid>
         <Grid container justify="center" item xs={6} direction="row">
           <form onSubmit={this.onSubmit}>
@@ -89,7 +89,7 @@ class DireccionForm extends Component {
               />
               <TextField
                 id="numeroExt"
-                label="Numero Exterior"
+                label="Número Exterior"
                 value={this.state.numeroExt}
                 onChange={this.handleChange}
                 margin="normal"
@@ -98,7 +98,7 @@ class DireccionForm extends Component {
               />
               <TextField
                 id="numeroInt"
-                label="Numero interior"
+                label="Número interior"
                 value={this.state.numeroInt}
                 onChange={this.handleChange}
                 margin="normal"

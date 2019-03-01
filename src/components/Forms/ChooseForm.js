@@ -19,11 +19,11 @@ const ChooseForm = (props) => {
         </Grid>
         <Grid container justify="space-between" item xs={6}>
           <Button url={`/precio-form/${props.match.params.id}`} text="Editar precio" />
-          <Button url={`/direccion-form/${props.match.params.id}`} text="Editar direccion" />
+          <Button url={`/direccion-form/${props.match.params.id}`} text="Editar dirección" />
           <Button url={`/propietario-form/${props.match.params.id}`} text="Editar propietario" />
         </Grid>
         <Grid item xs={12}>
-          <Button color="secondary" url={`/`} text="Cancelar" colorText="#FFF" align="center" />
+          <Button color="secondary" url={`/`} text="Regresar" colorText="#FFF" align="center" />
         </Grid>
       </Grid>
     </div>

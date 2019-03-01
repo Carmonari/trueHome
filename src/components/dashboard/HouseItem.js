@@ -11,14 +11,14 @@ const HouseItem = ({ photo, precio, direccion, propietario, handleClick }) => {
           <p>Precio <NumberFormat value={precio} displayType={'text'} thousandSeparator={true} prefix={'$'} /></p>
         </Grid>
         <Grid item xs={4}>
-          <h3 style={{margin: '0'}}>Direccion</h3>
+          <h3 style={{margin: '0'}}>Dirección</h3>
           <p>Ciudad: {direccion.ciudad}</p>
           <p>Colonia: {direccion.colonia}</p>
           <p>Calle: {direccion.calle}</p>
-          <p>Numero Ext: {direccion.numeroExt}</p>
+          <p>Número Ext: {direccion.numeroExt}</p>
           {
             direccion.numeroInt === '' 
-            ? '' : <p>Numero Interior: {direccion.numeroInt}</p>
+            ? '' : <p>Número Interior: {direccion.numeroInt}</p>
           }
           <p>CP: {direccion.cp}</p>
         </Grid>

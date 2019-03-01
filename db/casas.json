@@ -6,7 +6,7 @@
         "ciudad": "Guadalajara",
         "calle": "Manuel Acuna",
         "numeroExt": "30",
-        "numeroInt": "",
+        "numeroInt": "18C",
         "colonia": "Sta teresita",
         "cp": "33100"
       },
@@ -15,8 +15,8 @@
         "tel": "5568941326",
         "email": "sandra@gmail.com"
       },
-      "precio": "10000000",
-      "photo": "http://www.casasparaconstruir.com/projetos/140/01.jpg"
+      "precio": "3000005",
+      "photo": "https://www.viviendasaludable.es/wp-content/uploads/2014/11/casas-pasivas.jpg"
     },
     {
       "id": 2,
